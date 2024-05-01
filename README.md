@@ -17,6 +17,10 @@ It's a 2048 game.
 ```
 $ npm install / npm i
 $ npm start
+```
+
 To run this command, for lint checking (html, js and scss)
+
+```
 $ npm run lint
 ```
