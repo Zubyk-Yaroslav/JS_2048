@@ -1,5 +1,6 @@
 2048 Game
-Hello, it's a simple Landing product page. Here you can find the different products, accessories .etc
+
+Hello, it's a 2048 game.
 
 Technology: -HTML -SCSS -JS -JS classes
 
