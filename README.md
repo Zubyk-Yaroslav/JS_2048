@@ -1,11 +1,21 @@
 # 2048 Game
 
-Hello, it's a 2048 game.
+## About
+Hello there!
+It's a 2048 game.
 
-Technology: -HTML -SCSS -JS -JS classes
+## Technologies used:
+-HTML
+-SCSS
+-JS
+-JS classes
 
-Preview Link - https://zubyk-yaroslav.github.io/JS_2048/
+## Preview Link:
+* [DEMO LINK](https://zubyk-yaroslav.github.io/JS_2048/)
 
-To start:
-
-In main folder run npm install then npm start The command npm run lint for lint checking (html, js and scss codes)
+## Run locally(node 14.*.* required):
+```
+$ npm install / npm i
+$ npm start
+$ npm run lint for lint checking (html, js and scss)
+```
