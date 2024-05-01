@@ -1,4 +1,4 @@
-2048 Game
+# 2048 Game
 
 Hello, it's a 2048 game.
 
