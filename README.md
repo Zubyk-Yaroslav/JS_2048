@@ -4,11 +4,14 @@
 Hello there!
 It's a 2048 game.
 
+![image](https://github.com/Zubyk-Yaroslav/JS_2048/assets/29046059/a6caaa22-cc17-4740-9d88-500adecbb9b9)
+
+
 ## Technologies used:
--HTML
--SCSS
--JS
--JS classes
+* HTML
+* SCSS
+* JS
+* JS classes
 
 ## Preview Link:
 * [DEMO LINK](https://zubyk-yaroslav.github.io/JS_2048/)
